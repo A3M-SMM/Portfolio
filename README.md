@@ -3,9 +3,6 @@
 
 Hi 👋, I'm A3M Social Media Marketing
 
-Descripcion 
-Disfrutamos creando experiencias centradas en el usuario con un toque virtual y digital.
-
 ![Logo](https://github.com/A3M-SMM/Portfolio/blob/main/Screenshot/a3m_smm.png)
 
 
