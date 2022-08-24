@@ -1,0 +1,34 @@
+{
+   "duras": [
+                {
+                    "id":"1",
+                    "nombre":"HTML",
+                    "genero":"Languages",
+                    "porcentaje": "90%"
+                },
+                {
+                    "id":"2",
+                    "nombre":"CSS",
+                    "genero":"Languages",
+                    "porcentaje": "80%"
+                },
+                {
+                    "id":"3",
+                    "nombre":"JavaScript",
+                    "genero":"Languages",
+                    "porcentaje": "40%"
+                },
+                {
+                    "id":"4",
+                    "nombre":"Bootstrap",
+                    "genero":"Frameworks",
+                    "porcentaje": "92%"
+                },
+                {
+                    "id":"5",
+                    "nombre":"React.js",
+                    "genero":"Frameworks",
+                    "porcentaje": "70 %"
+                }   
+            ]
+}

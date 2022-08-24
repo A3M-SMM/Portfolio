@@ -1,0 +1,81 @@
+[
+    {
+        "id":9,
+        "titulo":"Paleta de Colores",
+        "imagen":"",
+        "descripcion":"TBD",
+        "precio": "50 USD"
+    },
+    {
+        "id":10,
+        "titulo":"Logotipo",
+        "descripcion":"TBD",
+        "precio": "100 USD"
+    },
+    {
+        "id":11,
+        "titulo":"Perfil de Redes",
+        "descripcion":"TBD",
+        "precio": "70 USD"
+    },
+    {
+        "id":12,
+        "titulo":"UX | UI",
+        "descripcion":"TBD",
+        "precio": "800 USD"
+    },
+    {
+        "id":13,
+        "titulo":"Branding",
+        "descripcion":"TBD",
+        "precio": "200 USD"
+    },
+    {
+        "id":14,
+        "titulo":"Identidad de Marca",
+        "descripcion":"TBD",
+        "precio": "250 USD"
+    },
+    {
+        "id":15,
+        "titulo":"Historias y Portadas",
+        "descripcion":"TBD",
+        "precio":"50 USD"
+    },
+    {
+        "id":16,
+        "titulo":"Plantillas",
+        "descripcion":"TBD",
+        "precio": "200 USD"
+    },
+    {
+        "id":17,
+        "titulo":"Landing Page",
+        "descripcion":"TBD",
+        "precio": "600 USD"
+    },
+    {
+        "id":18,
+        "titulo":"Pagina Web",
+        "descripcion":"TBD",
+        "precio": "Cotizar"
+    },
+    {
+        "id":19,
+        "titulo":"Display",
+        "descripcion":"Plan 1",
+        "precio": "200 USD"
+    },
+    {
+        "id":20,
+        "titulo":"Intermedio",
+        "descripcion":"Plan 2",
+        "precio": "300 USD"
+    },
+    {
+        "id":21,
+        "titulo":"Full",
+        "descripcion":"Plan 2",
+        "precio": "800 USD"
+    }
+]

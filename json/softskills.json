@@ -1,0 +1,23 @@
+
+{
+  "blandas":[
+            {
+                "id":"6",
+                "nombre":"TeamWork",
+                "genero":"Soft",
+                "porcentaje": "100 %"
+            },
+            {
+                "id":"7",
+                "nombre":"Collaboration",
+                "genero":"Soft",
+                "porcentaje": "100 %"
+            },
+            {
+                "id":"8",
+                "nombre":"Adaptability",
+                "genero":"Soft",
+                "porcentaje": "100 %"
+            }
+        ]
+}
