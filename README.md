@@ -1,7 +1,7 @@
 
 # Whoami!⚡
 
-Hi 👋, I'm A3M Social Media Marketing
+Hi 👋, I'm A3M Social Media Manager
 
 ![Logo](https://github.com/A3M-SMM/Portfolio/blob/main/Screenshot/a3m_smm.png)
 
